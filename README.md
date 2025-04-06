@@ -12,11 +12,11 @@ In Mac/Linux, use: ls -la OR la
 
 ## How to make a new branch in Git?
 
-- Use git checkout
-checkout - a keyword for switching between branches
+### Use git checkout
+-> checkout - a keyword for switching between branches
 
-Use the following command to actually make the branch:
-- git checkout -b name-of-branch
+### Use the following command to actually make the branch:
+-> git checkout -b name-of-branch
 
 And to switch to the branch you made:
-- git checkout name-of-branch
+-> git checkout name-of-branch
